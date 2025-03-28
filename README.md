@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abhay1006
-- 👀 I’m interested in MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE
-- 🌱 I’m currently learning PYTHON,C++
+- 👋 Hi, I’m Abhay Pratap Singh
+- 👀 I’m interested in  COMPUTERS AND ARTIFICIAL INTELLIGENCE 
+- 🌱 I’m currently learning PYTHON,C++, C#, JS, GO
 - 💞️ I’m looking to collaborate on ANY NEW PROJECTS
 - 📫 How to reach me EMAIL-abhaypratapsingh1006@gmail.com
 
